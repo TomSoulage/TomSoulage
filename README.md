@@ -1,7 +1,7 @@
 # 👋 Tom Soulage
 
 * Software Engineer @[Dedalus]: https://github.com/tomsoulage-dedalus  
-![Stats](https://github-readme-stats.vercel.app/api?username=tomsoulage-dedalus&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats-7pa1dcg58-tom-slges-projects.vercel.app/api?username=tomsoulage-dedalus&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 
 * Full-stack Java / Angular — 4 yrs
 
