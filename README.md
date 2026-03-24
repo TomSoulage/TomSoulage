@@ -1,7 +1,10 @@
 # 👋 Tom Soulage
 
-* Software Engineer @[Dedalus]: https://github.com/tomsoulage-dedalus  
-![Stats](https://github-readme-stats-7pa1dcg58-tom-slges-projects.vercel.app/api?username=tomsoulage-dedalus&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+* Software Engineer @Dedalus: https://github.com/tomsoulage-dedalus : 
+
+![Stats](https://github-readme-stats-blue-five-30.vercel.app/api?username=tomsoulage-dedalus&show_icons=true&include_all_commits=true&count_private=true&theme=dark&show=reviews,prs_merged,prs_merged_percentage)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=tomsoulage-dedalus&theme=dark)
+![Activity](https://github-activity-graph.vercel.app/graph?username=tomsoulage-dedalus&theme=github-dark)
 
 * Full-stack Java / Angular — 4 yrs
 
