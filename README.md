@@ -10,6 +10,3 @@
 ![Activity](https://github-activity-graph.vercel.app/graph?username=tomsoulage-dedalus&theme=github-dark)
 
 * Full-stack Java / Angular — 4 yrs
-
-##  Stack
-
